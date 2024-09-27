@@ -9,3 +9,13 @@ Most existing methods capture semantic information by using attention mechanism 
 Full codes (including raw and preprocessing data): https://drive.google.com/drive/folders/1DDOHnP28Frq3I_cjZpAWNm3N1zxpF4Su?usp=sharing
 
 If you use the codes, please cite our work. Thanks in advance!
+
+@article{hu2021fss,
+  title={FSS-GCN: A graph convolutional networks with fusion of semantic and structure for emotion cause analysis},
+  author={Hu, Guimin and Lu, Guangming and Zhao, Yi},
+  journal={Knowledge-Based Systems},
+  volume={212},
+  pages={106584},
+  year={2021},
+  publisher={Elsevier}
+}
